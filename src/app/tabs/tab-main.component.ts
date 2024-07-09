@@ -7,5 +7,4 @@ import { Subscription } from 'rxjs';
   styleUrls: ['./tab-main.component.scss']
 })
 export class TabMainComponent {
-
 }

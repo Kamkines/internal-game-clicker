@@ -1,3 +1,21 @@
 @import 'primeng/resources/themes/lara-dark-purple/theme.css';
 @import 'primeng/resources/primeng.min.css';
 @import 'primeicons/primeicons.css';
+
+body {
+    background-image: url('../src/assets/background-game.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.p-tabview-panels{
+    background: none;
+}
+
+.p-tabview-nav{
+    border: none;
+}
+
+.p-tabview-nav-link{
+    background: none;
+}
